@@ -17,7 +17,7 @@ I’m a passionate **Data Analyst** and **Data Scientist** in the making, with a
 - Open-source contributions related to **Python** or **data analysis** libraries
 
 ## 📫 How to reach me...
-- You can reach me through **LinkedIn**: [Shashank Shekhar LinkedIn](www.linkedin.com/in/shashankshekhar087)
+- You can view my **LinkedIn** profile [Shashank Shekhar](https://www.linkedin.com/in/shashankshekhar087).
 - Feel free to drop me a message via **email**: [shashank.shekhar087@gmail.com](mailto:shashank.shekhar087@gmail.com)
 
 ## 😄 Pronouns: He/Him
