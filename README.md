@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shashank Shekhar (@ShashankShekhar087)
 
-I’m a passionate **Data Analyst** and **Data Scientist** in the making, with a background in **marketing analytics**. I have experience in creating data-driven insights and building interactive dashboards using tools like **Power BI**, **Tableau**, and **SQL**. I am currently focused on transitioning into a full-time **data analyst** or **data science** role, leveraging my skills in **Python**, **SQL**, and **machine learning**.
+I’m a passionate **Data Analyst** and **Data Scientist** in the making, with a background in **marketing data analytics**. I have experience in creating data-driven insights and building interactive dashboards using tools like **Power BI**, **Tableau**, and **SQL**. I am currently focused on transitioning into a full-time **data analyst** or **data science** role, leveraging my skills in **Python**, **SQL**, and **machine learning**.
 
 ## 👀 I’m interested in...
 - Data analytics and data visualization
